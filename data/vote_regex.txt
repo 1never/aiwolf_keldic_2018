@@ -1,0 +1,5 @@
+.*《AGENTNAME》に投票.{1,10}$
+.*投票先?は《AGENTNAME》.{1,10}$
+.*投票するのは《AGENTNAME》.{1,10}$
+.*追放するのは《AGENTNAME》.{1,10}$
+.*《AGENTNAME》を追放.{1,10}$
